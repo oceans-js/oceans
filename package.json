@@ -1,0 +1,19 @@
+{
+  "name": "oceans",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oceans-js/oceans.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oceans-js/oceans/issues"
+  },
+  "homepage": "https://github.com/oceans-js/oceans#readme"
+}
